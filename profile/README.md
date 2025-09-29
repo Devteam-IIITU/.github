@@ -1,45 +1,36 @@
-# 👨‍💻 DEVTEAM-IIITU  
+# DEVTEAM-IIITU  
 
 Welcome to the official GitHub organization of the *Development Team, Indian Institute of Information Technology Una (IIITU)*.  
 We build and maintain digital solutions for the institute, including official websites, event portals, and administrative tools.  
 
 ---
 
-## 📂 Table of Contents
-1. [About](#about)  
-2. [Repositories](#repositories)  
-3. [Screenshots](#screenshots)  
-4. [Contributing](#contributing)  
-5. [License](#license)  
-6. [Contact](#contact)  
-
----
-
-## 🏫 About  
+##  About  
 The *DevTeam-IIITU* is responsible for developing, maintaining, and deploying software systems for IIITU.  
 From official websites to portals for events, placements, and conferences, our goal is to deliver reliable and scalable solutions for students, faculty, and administration.  
 
 ---
 
-## 📦 Repositories  
+## Repositories  
 
-### 🔒 Private Projects  
+### Private Projects  
 - *iiitu-website* – The official website of IIITU.  
 - *iiitu-admin* – Administrative portal for institute activities and resources.  
 - *icic3s-2026* – Website for the International Conference on Intelligent Computing, Communication, and Convergence (2026).  
 - *Placements-Website* – Portal for placement activities, recruiter interactions, and student data management.  
 
-### 🌐 Public Projects  
-- *AAVESH-Website* – Website for AAVESH, the annual technical festival of IIITU.  
+### Public Projects  
+- *AAVESH-Website* – Website for AAVESH, the electronics society of IIITU.
+- *Meraki-Website* – Website for Meraki, the annual technical fest of IIITU.  
 
 ---
 
 ## 📸 Screenshots  
 
-![IIITU Website Screenshot](https://github.com/user-attachments/assets/4aa9b355-9f10-464b-a361-27cdaf04c27b)  
-![Aavesh Website Screenshot](https://github.com/user-attachments/assets/b8274193-1f57-4d8d-972b-29e760f50b3a)  
-![Admin Portal Screenshot](https://github.com/user-attachments/assets/83eba252-0dbd-48f8-b847-7089cb0651c4)  
-![Conference Website Screenshot](https://github.com/user-attachments/assets/f82e334b-3180-45d6-84b0-5d565dd39fe3)  
+![IIITU Website Screenshot](https://github.com/user-attachments/assets/ca972271-c5b4-4990-82fc-6248c5bef942)
+![Admin Portal Screenshot](https://github.com/user-attachments/assets/e210354a-66f8-4b26-ba02-cb924fb419b3)  
+![Conference Website Screenshot](https://github.com/user-attachments/assets/c8bbc5ec-dea2-4cda-8e81-ddbb0b23e114)  
+![Placement Website Screenshot](https://github.com/user-attachments/assets/0b1d9b21-f13b-4d19-bf95-86e8be43366b)  
 
 ---
 
