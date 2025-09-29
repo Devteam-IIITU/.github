@@ -33,6 +33,8 @@ From official websites to portals for events, placements, and conferences, our g
 | <img src="https://iiitu.ac.in/DevTeam/Rishvant.jpg" width="100"/> | *Rishvant Singh* | Full Stack Lead | [GitHub](https://github.com/rishvant) | [LinkedIn](https://www.linkedin.com/in/rishvant-singh/) |
 | <img src="https://iiitu.ac.in/DevTeam/VANSH VERMA.jpg" width="100"/> | *Vansh Verma* | Backend & DevOps Lead | [GitHub](https://github.com/vansh-000) | [LinkedIn](https://www.linkedin.com/in/vansh000/) |
 
+---
+
 ### Core Team  
 | Photo | Name | Role | GitHub | LinkedIn |
 |-------|------|------|--------|----------|
@@ -74,6 +76,8 @@ From official websites to portals for events, placements, and conferences, our g
 We welcome contributions from developers, alumni, and students who want to support IIITU projects.  
 For contributions or collaborations, reach out to us:  
 [developer@iiitu.ac.in](mailto:developer@iiitu.ac.in)  
+
+---
 
 ## Screenshots  
 
