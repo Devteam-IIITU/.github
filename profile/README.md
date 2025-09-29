@@ -46,6 +46,7 @@ For contributions or collaborations, reach out to us:
 ### Admins
 | Photo | Name | Role | GitHub | LinkedIn |
 |-------|------|------|--------|----------|
+| <img src="https://iiitu.ac.in/DevTeam/Rishvant.jpg" width="100"/> | *Rishvant Singh* | Full Stack Lead | [GitHub](https://github.com/rishvant) | [LinkedIn](https://www.linkedin.com/in/rishvant-singh/) |
 | <img src="https://iiitu.ac.in/DevTeam/VANSH VERMA.jpg" width="100"/> | *Vansh Verma* | Backend & DevOps Lead | [GitHub](https://github.com/vansh-000) | [LinkedIn](https://www.linkedin.com/in/vansh000/) |
 
 ### Core Team  
