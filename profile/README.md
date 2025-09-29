@@ -25,22 +25,6 @@ From official websites to portals for events, placements, and conferences, our g
 
 ---
 
-## 📸 Screenshots  
-
-![IIITU Website Screenshot](https://github.com/user-attachments/assets/ca972271-c5b4-4990-82fc-6248c5bef942)
-![Admin Portal Screenshot](https://github.com/user-attachments/assets/e210354a-66f8-4b26-ba02-cb924fb419b3)  
-![Conference Website Screenshot](https://github.com/user-attachments/assets/c8bbc5ec-dea2-4cda-8e81-ddbb0b23e114)  
-![Placement Website Screenshot](https://github.com/user-attachments/assets/0b1d9b21-f13b-4d19-bf95-86e8be43366b)  
-
----
-
-## 🤝 Contributing  
-We welcome contributions from developers, alumni, and students who want to support IIITU projects.  
-For contributions or collaborations, reach out to us:  
-📩 [developer@iiitu.ac.in](mailto:developer@iiitu.ac.in)  
-
----
-
 ## Our Team  
 
 ### Admins
@@ -68,6 +52,8 @@ For contributions or collaborations, reach out to us:
 | <img src="https://iiitu.ac.in/DevTeam/sarthak_bansal.jpg" width="100"/> | *Sarthak Bansal* | Backend Developer | [GitHub](https://github.com/SarthakB-06) | [LinkedIn](https://www.linkedin.com/in/sarthak-bansal-0b38ba319) |
 | <img src="https://iiitu.ac.in/DevTeam/aryan_sheoran.jpg" width="100"/> | *Aryan Sheoran* | Frontend Developer | [GitHub](https://github.com/aryan-sheoran) | [LinkedIn](https://www.linkedin.com/in/aryan-sheoran-326b03323/) |
 
+---
+
 ### Past Developers  
 | Photo | Name | Role | GitHub | LinkedIn |
 |-------|------|------|--------|----------|
@@ -84,8 +70,22 @@ For contributions or collaborations, reach out to us:
 
 ---
 
-## 📧 Contact  
+## Contributing  
+We welcome contributions from developers, alumni, and students who want to support IIITU projects.  
+For contributions or collaborations, reach out to us:  
+[developer@iiitu.ac.in](mailto:developer@iiitu.ac.in)  
+
+## Screenshots  
+
+![IIITU Website Screenshot](https://github.com/user-attachments/assets/ca972271-c5b4-4990-82fc-6248c5bef942)
+![Admin Portal Screenshot](https://github.com/user-attachments/assets/e210354a-66f8-4b26-ba02-cb924fb419b3)  
+![Conference Website Screenshot](https://github.com/user-attachments/assets/c8bbc5ec-dea2-4cda-8e81-ddbb0b23e114)  
+![Placement Website Screenshot](https://github.com/user-attachments/assets/0b1d9b21-f13b-4d19-bf95-86e8be43366b)  
+
+---
+
+## Contact  
 For queries, contributions, or collaborations, reach out to us:  
-📩 [developer@iiitu.ac.in](mailto:developer@iiitu.ac.in)  
+[developer@iiitu.ac.in](mailto:developer@iiitu.ac.in)  
 
 ---
