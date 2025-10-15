@@ -6,7 +6,7 @@ We build and maintain digital solutions for the institute, including official we
 ---
 
 ##  About  
-The *DevTeam-IIITU* is responsible for developing, maintaining, and deploying software systems for IIITU.  
+The *DevTeam IIITUna* is responsible for developing, maintaining, and deploying software systems for IIITU.  
 From official websites to portals for events, placements, and conferences, our goal is to deliver reliable and scalable solutions for students, faculty, and administration.  
 
 ---
@@ -40,8 +40,8 @@ From official websites to portals for events, placements, and conferences, our g
 |-------|------|------|--------|----------|
 | <img src="https://iiitu.ac.in/DevTeam/Rishvant.jpg" width="100"/> | *Rishvant Singh* | Full Stack Lead | [GitHub](https://github.com/rishvant) | [LinkedIn](https://www.linkedin.com/in/rishvant-singh/) |
 | <img src="https://iiitu.ac.in/DevTeam/AYUSH KUMAR.jpg" width="100"/> | *Ayush* | Full Stack Lead | [GitHub](https://github.com/AyushIIITU) | [LinkedIn](https://www.linkedin.com/in/ayush-ba444b257) |
-| <img src="https://iiitu.ac.in/DevTeam/Pranav Garg.jpg" width="100"/> | *Pranav Garg* | Frontend & Design Lead | [GitHub](https://github.com/Pranav140) | [LinkedIn](https://www.linkedin.com/in/pranav-garg-4729ab277) |
 | <img src="https://iiitu.ac.in/DevTeam/VANSH VERMA.jpg" width="100"/> | *Vansh Verma* | Backend & DevOps Lead | [GitHub](https://github.com/vansh-000) | [LinkedIn](https://www.linkedin.com/in/vansh000/) |
+| <img src="https://iiitu.ac.in/DevTeam/Pranav Garg.jpg" width="100"/> | *Pranav Garg* | Frontend & Design Lead | [GitHub](https://github.com/Pranav140) | [LinkedIn](https://www.linkedin.com/in/pranav-garg-4729ab277) |
 
 ---
 
