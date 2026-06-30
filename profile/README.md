@@ -31,6 +31,8 @@ From official websites to portals for events, placements, and conferences, our g
 | Photo | Name | Role | GitHub | LinkedIn |
 |-------|------|------|--------|----------|
 | <img src="https://iiitu.ac.in/DevTeam/VANSH VERMA.jpg" width="100"/> | *Vansh Verma* | Full Stack Lead | [GitHub](https://github.com/vansh-000) | [LinkedIn](https://www.linkedin.com/in/vansh000/) |
+| <img src="https://iiitu.ac.in/DevTeam/Deep_shekhar_singh.jpg" width="100"/> | *Deep Shekhar Singh* | Frontend Lead | [GitHub](https://github.com/DSingh0304) | [LinkedIn](https://www.linkedin.com/in/deepshekharsingh/) |
+| <img src="https://iiitu.ac.in/DevTeam/Yuvraj_singh_chouhan.jpg" width="100"/> | *Yuvraj Singh Chauhan* | Backend Lead | [GitHub](https://github.com/ysinghc) | [LinkedIn](https://www.linkedin.com/in/ysinghch/) |
 
 ---
 
@@ -45,8 +47,8 @@ From official websites to portals for events, placements, and conferences, our g
 ### Maintenance Team
 | Photo | Name | Role | GitHub | LinkedIn |
 |-------|------|------|--------|----------|
-| <img src="https://iiitu.ac.in/DevTeam/Deep_shekhar_singh.jpg" width="100"/> | *Deep Shekhar Singh* | Frontend Developer | [GitHub](https://github.com/DSingh0304) | [LinkedIn](https://www.linkedin.com/in/deepshekharsingh/) |
-| <img src="https://iiitu.ac.in/DevTeam/Yuvraj_singh_chouhan.jpg" width="100"/> | *Yuvraj Singh Chauhan* | Backend Developer | [GitHub](https://github.com/ysinghc) | [LinkedIn](https://www.linkedin.com/in/ysinghch/) |
+| <img src="https://iiitu.ac.in/DevTeam/Deep_shekhar_singh.jpg" width="100"/> | *Deep Shekhar Singh* | Frontend Lead | [GitHub](https://github.com/DSingh0304) | [LinkedIn](https://www.linkedin.com/in/deepshekharsingh/) |
+| <img src="https://iiitu.ac.in/DevTeam/Yuvraj_singh_chouhan.jpg" width="100"/> | *Yuvraj Singh Chauhan* | Backend Lead | [GitHub](https://github.com/ysinghc) | [LinkedIn](https://www.linkedin.com/in/ysinghch/) |
 | <img src="https://iiitu.ac.in/DevTeam/Sneha.jpg" width="100"/> | *Sneha Kumari* | Backend Developer | [GitHub](https://github.com/Snehaaa-Kri) | [LinkedIn](https://www.linkedin.com/in/sneha-kumari-674662274/) |
 | <img src="https://iiitu.ac.in/DevTeam/sarthak_bansal.jpg" width="100"/> | *Sarthak Bansal* | Backend Developer | [GitHub](https://github.com/SarthakB-06) | [LinkedIn](https://www.linkedin.com/in/sarthak-bansal-0b38ba319) |
 | <img src="https://iiitu.ac.in/DevTeam/aryan_sheoran.jpg" width="100"/> | *Aryan Sheoran* | Frontend Developer | [GitHub](https://github.com/aryan-sheoran) | [LinkedIn](https://www.linkedin.com/in/aryan-sheoran-326b03323/) |
